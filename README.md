@@ -8,7 +8,7 @@ preparou no histórico do seu repositório local.
 O histograma da **Idade** (histograma_idade.png) exibe uma distribuição que 
 aparenta ser pŕoxima a normal. A maior concentração de indivíduos (moda) 
 situa-se na faixa etária de 45 a 60 anos.
-
+![Histograma da Distribuição da Idade](histograma_idade.png)
 
 ### Boxplot do Tempo Preso
 O boxplot do **Tempo Preso** (boxplot_tempo_preso.png) revela a dispersão dessa 
@@ -17,18 +17,21 @@ aproximadamente 60 meses. A amplitude interquartil (tamanho da caixa) indica
 que 50% dos detentos estão presos entre [Q1=54] e [Q3=67] meses. O gráfico também 
 pode indicar a presença de *outliers* (97 meses), representando 
 indivíduos com tempo de prisão excepcionalmente longo ou curto.
+![Boxplot da Mediana e Dispersão do Tempo Preso em meses](boxplot_tempo_preso.png)
 
 ### Score de Periculosidade por Escolaridade
 O boxplot que compara o **Score de Periculosidade** por **Escolaridade** 
 (boxplot_score_escolaridade.png) sugere uma relação entre as variáveis. 
 [O grupo com Escolaridade 'Fundamental'
 apresenta uma mediana de score significativamente maior que o grupo 'Superior'].
+![Boxplot do Score de Periculosidade por Escolaridade](boxplot_score_escolaridade.png)
 
 
 ### Distribuição da Reincidência (Gráfico de Barras)
 O gráfico de barras para a variável **Reincidente** (grafico_reincidente.png) 
 demonstra a proporção de indivíduos que cometeram crimes novamente. [ 81% não 
 não tornam a cometer outros crimes].
+![Gráfico de Barras da Distribuição da Reincidência Sim e Não](grafico_reincidente.png)
 
 ## 🔢 Definições de Medidas Estatísticas Chave
 
