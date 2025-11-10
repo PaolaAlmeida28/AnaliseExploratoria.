@@ -9,7 +9,6 @@ O histograma da **Idade** (histograma_idade.png) exibe uma distribuição que
 aparenta ser pŕoxima a normal. A maior concentração de indivíduos (moda) 
 situa-se na faixa etária de 45 a 60 anos.
 
-print(histograma_idade.png)
 
 ### Boxplot do Tempo Preso
 O boxplot do **Tempo Preso** (boxplot_tempo_preso.png) revela a dispersão dessa 
